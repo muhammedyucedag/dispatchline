@@ -1,0 +1,13 @@
+/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/bin/Debug/net9.0/DispatchLine.Domain.deps.json
+/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/bin/Debug/net9.0/DispatchLine.Domain.dll
+/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/bin/Debug/net9.0/DispatchLine.Domain.pdb
+/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/Debug/net9.0/DispatchLine.Domain.csproj.AssemblyReference.cache
+/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/Debug/net9.0/DispatchLine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/Debug/net9.0/DispatchLine.Domain.AssemblyInfoInputs.cache
+/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/Debug/net9.0/DispatchLine.Domain.AssemblyInfo.cs
+/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/Debug/net9.0/DispatchLine.Domain.csproj.CoreCompileInputs.cache
+/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/Debug/net9.0/DispatchLine.Domain.sourcelink.json
+/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/Debug/net9.0/DispatchLine.Domain.dll
+/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/Debug/net9.0/refint/DispatchLine.Domain.dll
+/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/Debug/net9.0/DispatchLine.Domain.pdb
+/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/Debug/net9.0/ref/DispatchLine.Domain.dll

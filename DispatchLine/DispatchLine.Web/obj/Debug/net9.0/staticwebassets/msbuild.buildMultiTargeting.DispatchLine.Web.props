@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DispatchLine.Web.props" />
+</Project>

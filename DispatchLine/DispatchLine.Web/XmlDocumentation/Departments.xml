@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<docs>
+
+  <CreateDepartment>
+    <summary>
+      Yeni bir Departman oluşturur.
+    </summary>
+    <remarks>Bu işlem, sistemde yeni bir Departman ekler.</remarks>
+    <response code="201">Departman başarıyla eklendi.</response>
+    <response code="400">Gönderilen parametre hatalı.</response>
+    <response code="404">İstenen kaynak bulunamadı.</response>
+    <response code="409">Aynı Departman daha önce tanımlanmış.</response>
+    <response code="500">Sunucu hatası.</response>
+  </CreateDepartment>
+
+</docs>
