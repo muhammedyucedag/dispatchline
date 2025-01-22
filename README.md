@@ -1,2 +1,2 @@
 # dispatchline
- sevk proesi
+ Lojistik Uygulaması
