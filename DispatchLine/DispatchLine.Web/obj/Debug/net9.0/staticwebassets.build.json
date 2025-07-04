@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "MVPz1Cy0eU3s16LDy3b6aK+Vy2gII58vB6YyixrykoU=",
-  "Source": "DispatchLine.Web",
-  "BasePath": "_content/DispatchLine.Web",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"MVPz1Cy0eU3s16LDy3b6aK+Vy2gII58vB6YyixrykoU=","Source":"DispatchLine.Web","BasePath":"_content/DispatchLine.Web","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

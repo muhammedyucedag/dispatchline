@@ -1,0 +1,7 @@
+﻿services:
+  dispatchline.web:
+    image: dispatchline.web
+    build:
+      context: .
+      dockerfile: DispatchLine.Web/Dockerfile
+
