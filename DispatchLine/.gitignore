@@ -1,0 +1,33 @@
+# Build output klasörleri
+bin/
+obj/
+
+# Paket ve log dosyaları
+node_modules/
+npm-debug.log
+
+# Environment ve secret dosyaları
+.env
+secrets.dev.yaml
+values.dev.yaml
+
+# IDE ayar dosyaları
+.vscode/
+.idea/
+.vs/
+
+# User ve VS config dosyaları
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Database migration dosyaları (gerekiyorsa)
+*.dbmdl
+*.jfm
+
+# Azure Dev Spaces
+azds.yaml
+
+# Charts (helm vs. kullanıyorsan)
+charts/
