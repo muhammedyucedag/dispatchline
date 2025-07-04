@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/DispatchLine.Domain.csproj": {}
+    "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Domain\\DispatchLine.Domain.csproj": {}
   },
   "projects": {
-    "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/DispatchLine.Domain.csproj": {
+    "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Domain\\DispatchLine.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/DispatchLine.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Domain\\DispatchLine.Domain.csproj",
         "projectName": "DispatchLine.Domain",
-        "projectPath": "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/DispatchLine.Domain.csproj",
-        "packagesPath": "/Users/muhammedyucedag/.nuget/packages/",
-        "outputPath": "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/",
+        "projectPath": "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Domain\\DispatchLine.Domain.csproj",
+        "packagesPath": "C:\\Users\\Muhammed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/muhammedyucedag/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Muhammed\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/library-packs": {},
+          "C:\\Users\\Muhammed\\Desktop\\packages-main": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Muhammed\\.dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -11,3 +11,16 @@
 /Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/Debug/net9.0/refint/DispatchLine.Domain.dll
 /Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/Debug/net9.0/DispatchLine.Domain.pdb
 /Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/obj/Debug/net9.0/ref/DispatchLine.Domain.dll
+C:\Users\Muhammed\Desktop\Project\github-project\dispatchline\DispatchLine\DispatchLine.Domain\bin\Debug\net9.0\DispatchLine.Domain.deps.json
+C:\Users\Muhammed\Desktop\Project\github-project\dispatchline\DispatchLine\DispatchLine.Domain\bin\Debug\net9.0\DispatchLine.Domain.dll
+C:\Users\Muhammed\Desktop\Project\github-project\dispatchline\DispatchLine\DispatchLine.Domain\bin\Debug\net9.0\DispatchLine.Domain.pdb
+C:\Users\Muhammed\Desktop\Project\github-project\dispatchline\DispatchLine\DispatchLine.Domain\obj\Debug\net9.0\DispatchLine.Domain.csproj.AssemblyReference.cache
+C:\Users\Muhammed\Desktop\Project\github-project\dispatchline\DispatchLine\DispatchLine.Domain\obj\Debug\net9.0\DispatchLine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\Desktop\Project\github-project\dispatchline\DispatchLine\DispatchLine.Domain\obj\Debug\net9.0\DispatchLine.Domain.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Desktop\Project\github-project\dispatchline\DispatchLine\DispatchLine.Domain\obj\Debug\net9.0\DispatchLine.Domain.AssemblyInfo.cs
+C:\Users\Muhammed\Desktop\Project\github-project\dispatchline\DispatchLine\DispatchLine.Domain\obj\Debug\net9.0\DispatchLine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\Project\github-project\dispatchline\DispatchLine\DispatchLine.Domain\obj\Debug\net9.0\DispatchLine.Domain.sourcelink.json
+C:\Users\Muhammed\Desktop\Project\github-project\dispatchline\DispatchLine\DispatchLine.Domain\obj\Debug\net9.0\DispatchLine.Domain.dll
+C:\Users\Muhammed\Desktop\Project\github-project\dispatchline\DispatchLine\DispatchLine.Domain\obj\Debug\net9.0\refint\DispatchLine.Domain.dll
+C:\Users\Muhammed\Desktop\Project\github-project\dispatchline\DispatchLine\DispatchLine.Domain\obj\Debug\net9.0\DispatchLine.Domain.pdb
+C:\Users\Muhammed\Desktop\Project\github-project\dispatchline\DispatchLine\DispatchLine.Domain\obj\Debug\net9.0\ref\DispatchLine.Domain.dll

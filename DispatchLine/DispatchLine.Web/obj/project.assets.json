@@ -4974,39 +4974,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/muhammedyucedag/.nuget/packages/": {}
+    "C:\\Users\\Muhammed\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Web/DispatchLine.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Web\\DispatchLine.Web.csproj",
       "projectName": "DispatchLine.Web",
-      "projectPath": "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Web/DispatchLine.Web.csproj",
-      "packagesPath": "/Users/muhammedyucedag/.nuget/packages/",
-      "outputPath": "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Web/obj/",
+      "projectPath": "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Web\\DispatchLine.Web.csproj",
+      "packagesPath": "C:\\Users\\Muhammed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/muhammedyucedag/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Muhammed\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/library-packs": {},
+        "C:\\Users\\Muhammed\\Desktop\\packages-main": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Application/DispatchLine.Application.csproj": {
-              "projectPath": "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Application/DispatchLine.Application.csproj"
+            "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Application\\DispatchLine.Application.csproj": {
+              "projectPath": "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Application\\DispatchLine.Application.csproj"
             },
-            "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/DispatchLine.Domain.csproj": {
-              "projectPath": "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Domain/DispatchLine.Domain.csproj"
+            "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Domain\\DispatchLine.Domain.csproj": {
+              "projectPath": "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Domain\\DispatchLine.Domain.csproj"
             },
-            "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Infrastructure/DispatchLine.Infrastructure.csproj": {
-              "projectPath": "/Users/muhammedyucedag/Desktop/Project/dispatchline/DispatchLine/DispatchLine.Infrastructure/DispatchLine.Infrastructure.csproj"
+            "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Infrastructure\\DispatchLine.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\dispatchline\\DispatchLine\\DispatchLine.Infrastructure\\DispatchLine.Infrastructure.csproj"
             }
           }
         }
@@ -5021,7 +5021,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -5081,7 +5081,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Muhammed\\.dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
