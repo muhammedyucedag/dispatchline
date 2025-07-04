@@ -1,25 +1,49 @@
-﻿**/.dockerignore
-**/.env
-**/.git
-**/.gitignore
-**/.project
-**/.settings
-**/.toolstarget
-**/.vs
-**/.vscode
-**/.idea
-**/*.*proj.user
-**/*.dbmdl
-**/*.jfm
-**/azds.yaml
-**/bin
-**/charts
-**/docker-compose*
-**/Dockerfile*
-**/node_modules
-**/npm-debug.log
-**/obj
-**/secrets.dev.yaml
-**/values.dev.yaml
+﻿# Genel yapılandırma ve IDE dosyaları
+.vscode/
+.idea/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output klasörleri
+bin/
+obj/
+
+# Paket ve log dosyaları
+node_modules/
+npm-debug.log
+
+# Docker ve compose dosyaları
+.dockerignore
+docker-compose*
+Dockerfile*
+
+# Environment ve secret dosyaları
+.env
+secrets.dev.yaml
+values.dev.yaml
+
+# Git config
+.git/
+.gitignore
+
+# Proje ve ayar dosyaları
+.project
+.settings/
+.toolstarget
+
+# Database ve migration dosyaları (gerekiyorsa)
+*.dbmdl
+*.jfm
+
+# Azure Dev Spaces
+azds.yaml
+
+# Charts (helm vs. kullanıyorsan)
+charts/
+
+# Lisans ve readme
 LICENSE
 README.md
