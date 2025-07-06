@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispatchLine.Web", "DispatchLine.Web\DispatchLine.Web.csproj", "{C1310B8B-1699-4408-9EA7-296A5C864D3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispatchLine.WebAPI", "DispatchLine.WebAPI\DispatchLine.WebAPI.csproj", "{C1310B8B-1699-4408-9EA7-296A5C864D3B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispatchLine.Application", "DispatchLine.Application\DispatchLine.Application.csproj", "{AEF6F2CF-8DD2-4C6A-A79A-E3B778B92DEE}"
 EndProject
